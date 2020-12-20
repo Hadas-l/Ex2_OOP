@@ -55,6 +55,7 @@ note: ID is allowed to be a number only, 9 digits long.
 ## Contact info
 
 name: Hadas Levy
+
 Github: https://github.com/Hadas-l/Ex2_OOP
 
 ## Acknowledgements

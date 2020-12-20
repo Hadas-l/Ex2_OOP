@@ -10,6 +10,7 @@ import gameClient.util.Range2D;
 
 import javax.imageio.ImageIO;
 import javax.swing.*;
+import javax.swing.border.LineBorder;
 import java.awt.*;
 import java.io.File;
 import java.io.IOException;
@@ -78,6 +79,9 @@ public class MyFrame extends JFrame{
 
             }
         };
+
+        panel.setPreferredSize(getPreferredSize());
+        panel.setBorder(new LineBorder(Color.BLACK));
 
         add(panel);
     }

@@ -10,7 +10,7 @@ Graph have basic operations such as: add node, remove node, connect two nodes, r
 Algo gives you the option to check if your graph is connected,
 find shortes path, and shortest distance between two nodes.
 
-•	classes are implementing Interfaces written by Boaz.
+•	classes are implementing Interfaces written by Professor Boaz Ben Moshe.
 
 
 ## Prerequisites
